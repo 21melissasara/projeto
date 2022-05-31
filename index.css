@@ -26,5 +26,7 @@ div {
     height: 300px;
  }
 
-
+ #imagens{
+    border-radius: 50%;
+}
  
