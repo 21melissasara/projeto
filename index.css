@@ -9,9 +9,10 @@ div {
 
 /* 2 imagens */
 @keyframes slide {
-0%  { background-image: url('https://i.pinimg.com/564x/3b/d5/f5/3bd5f51ab8b3d9d7b9f7d2443586f4f6.jpg'); } 
-50% { background-image: url('https://i.pinimg.com/564x/eb/b9/e3/ebb9e37fdb471de44a56c087768ff6d0.jpg');}
-100%  { background-image: url('https://i.pinimg.com/564x/3b/d5/f5/3bd5f51ab8b3d9d7b9f7d2443586f4f6.jpg'); } 
+0%  { background-image: url('1.png'); } 
+30% { background-image: url('2.png');}
+60%  { background-image: url('3.png');} 
+100%  { background-image: url('1.png');}
  }
  #serviços {
     background-color:#f0d9d1;
