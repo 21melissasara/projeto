@@ -12,3 +12,10 @@ div {
 50% { background-image: url('https://i.pinimg.com/564x/eb/b9/e3/ebb9e37fdb471de44a56c087768ff6d0.jpg');}
 100%  { background-image: url('https://i.pinimg.com/564x/3b/d5/f5/3bd5f51ab8b3d9d7b9f7d2443586f4f6.jpg'); } 
  }
+ .dot {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(200, 86, 86);
+    border-radius: 50%;
+    display: inline-block;
+  }
