@@ -15,8 +15,11 @@ div {
  }
  #serviços {
     background-color:#f0d9d1;
-    width: 5000px;
-    height: 533px;
+    margin: 0%;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 1000px;
+    height: 300px;
  }
 
 
