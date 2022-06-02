@@ -29,7 +29,14 @@ div#slide {
     height: 300px; 
     border-radius: 0%;
  }
- 
+ div#serviços{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+max-width: 100%;
+border-radius: 50%;
+text-align: center;
+ }
 
 
  
