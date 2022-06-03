@@ -20,6 +20,7 @@ div#slide {
 60%  { background-image: url('Design\ sem\ nome\ \(6\).png');} 
 100%  { background-image: url('Design\ sem\ nome\ \(3\).png');}
  }
+
  #serviços {
     background-color:#f4efec;
     margin: 0%;
@@ -29,8 +30,9 @@ div#slide {
     height: 300px; 
     border-radius: 0%;
  }
- div#serviços{
-     border-radius: 50%;
+
+ #serviços{
+border-radius: 50%;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-evenly;
