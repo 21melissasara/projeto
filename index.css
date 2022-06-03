@@ -12,7 +12,9 @@ header{
 }
 header img{
     background-repeat: no-repeat;
-	background-position: left center;
+	background-position: left;
+    width: 100px;
+    height: 100px;
 }
 div#slide { 
     margin: 0%;
