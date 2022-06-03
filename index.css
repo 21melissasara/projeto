@@ -22,12 +22,12 @@ div#slide {
  }
 
  #serviços {
+    padding-top: 20px
     background-color:#f4efec;
     margin: 0%;
     padding-left: 0px;
     padding-right: 0px;
     width:auto;
-    height: 300px; 
     border-radius: 0%;
  }
 
