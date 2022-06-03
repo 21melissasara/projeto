@@ -32,7 +32,6 @@ div#slide {
  }
 
  #serviços{
-    border-radius: 50%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
