@@ -7,6 +7,9 @@ header{
     height: 40px;
     margin-top: 10px;
      margin-right: 50px;
+    background-image: url('Logo_Floral_Minimalista_Marrom-removebg-preview.png');
+	background-repeat: no-repeat;
+	background-position: left center;
 }
 div#slide { 
     margin: 0%;
@@ -15,9 +18,7 @@ div#slide {
     animation-name: slide;
     animation-duration: 10s;
     animation-iteration-count: infinite;
-    background-image: url('Logo_Floral_Minimalista_Marrom-removebg-preview.png');
-	background-repeat: no-repeat;
-	background-position: left center;
+    
 }
 
 /* 2 imagens */
