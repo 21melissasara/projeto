@@ -1,6 +1,9 @@
 body{
     margin: 0%;
 }
+header{
+    text-align: right;
+}
 div#slide { 
     margin: 0%;
     width: auto;
