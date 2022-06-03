@@ -4,7 +4,8 @@ body{
 header{
     text-align: right;
     width: auto;
-    height: 50px;
+    height: 40px;
+    margin-top: 10px;
 }
 div#slide { 
     margin: 0%;
