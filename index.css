@@ -3,6 +3,8 @@ body{
 }
 header{
     text-align: right;
+    width: auto;
+    height: 50px;
 }
 div#slide { 
     margin: 0%;
