@@ -66,20 +66,35 @@ div#slide {
 #comentários{
     background-color:#DDB7AC ;
     width: auto;
-    height: 700px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-#comentários div{
-    width:20%;
-}
-#comentários img{
-     max-width: 100%;
-}
 
-#comentários p{
-    text-align: center;
 }
+#silvia{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    align-items: center;
+   
+   }
+   #sil{
+       width: 300px;
+       margin-left: 200px;
+       margin-top: 100px;
+       margin-right: 30px;
+       margin-bottom: 50px;
+   }
+   #Bárbara{
+       display: flex;
+       text-align: justify;
+       flex-direction: row;
+       align-items: center;
+       margin-left: 100px;
+   }
+   #bar{
+       width: 300px;
+       margin-left: 200px;
+       margin-top: 50px;
+       margin-right: 30px;
+       margin-bottom: 100px;
+   }
  
  
