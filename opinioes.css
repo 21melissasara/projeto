@@ -33,9 +33,24 @@ div#slide {
 100%  { background-image: url('Design\ sem\ nome\ \(3\).png');}
  }
 
-#Claudia{
+#claudia{
  display: flex;
  text-align: justify;
  flex-direction: row;
  align-items: center;
+
 }
+#Marta{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    align-items: center;
+    
+}
+#Nicole{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    align-items: center;
+    
+   }
