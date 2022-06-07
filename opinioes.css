@@ -52,6 +52,7 @@ div#slide {
     text-align: justify;
     flex-direction: row;
     align-items: center;
+    margin-left: 100px;
 }
 #mar{
     width: 300px;
