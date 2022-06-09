@@ -32,3 +32,18 @@ div#slide {
 60%  { background-image: url('Design\ sem\ nome\ \(6\).png');} 
 100%  { background-image: url('Design\ sem\ nome\ \(3\).png');}
  }
+
+ footer{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+ #contactos{
+    width: 35%;
+ }
+ #Horário{
+    width: 35%;
+ }
