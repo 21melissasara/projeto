@@ -101,7 +101,7 @@ div#slide {
      background-color:#f4efec;
  }
 
- #rodape{
+ footer{
     display: flex;
     text-align: justify;
     flex-direction: row;
