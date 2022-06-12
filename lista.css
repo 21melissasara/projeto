@@ -1,6 +1,9 @@
 body{
     margin: 0%;
 }
+header{
+    text-align: center;
+}
 header a {
     text-align: right;
     width: auto;
